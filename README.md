@@ -19,3 +19,4 @@ CSS: Styling and layout for a visually appealing design.
 JavaScript: Interactive elements and API integration for dynamic data handling.
 
 # frontendtask
+# frontendtask
